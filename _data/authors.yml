@@ -2,7 +2,7 @@
 
 Name Name:
   name        : "Firman Hadi"
-  uri         : "https://sigro.org"
+  uri         : #"https://sigro.org"
   email       : "firmanhadi@me.com"
   bio         : "I am a man with many interests but no mastery in any of them."
   avatar      : "IMG_0086.jpg"
