@@ -2,17 +2,10 @@
 
 Name Name:
   name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  uri         : "https://sigro.org"
+  email       : "firmanhadi@me.com"
+  bio         : "I am a man with many interests but no mastery in any of them."
+  avatar      : "IMG_0086.jpg"
+  twitter     : "jalmiburung"
+  google_plus : "jalmiburung"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
