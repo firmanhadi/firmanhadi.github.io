@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,70 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Remote Sensing and Landscape Ecology, Institut Teknologi Bandung, Indonesia
+* 2011 - Ph.D. in Remote Sensing and Landscape Ecology, Institut Teknologi Bandung, Indonesia
 * 2004 – M. Eng. in Remote Sensing, Institut Teknologi Bandung, Indonesia
 * 2001 – B. Sc. in Ecology and Conservation, Universitas Padjadjaran, Indonesia
 
 **Area of Expertise**
 =======
-Remote Sensing
-Landscape Ecology
-Free and Open Source GIS
+* Remote Sensing
+* Landscape Ecology
+* Free and Open Source GIS
 
 
 Work experience
 ======
 * Jun -- Nov 2020
+
 **Spatial Dynamics Expert**
 
-Client : Ministry of National Development Planning of the Republic of Indonesia}
-{Supporting the team to model the spatial dynamics for Strategic Environmental Assessment of the New Capital City of Indonesia in East Kalimantan).
+**Client** : Ministry of National Development Planning of the Republic of Indonesia}
 
 Main tasks delivered in the project were: (1) extracting land cover information from remote sensing datasets using Google Earth Engine, (2) modeling the spatial dynamics of land use land cover (LULC) and making LULC prediction for the year of 2035 and 2045, based on  extracted LULC from remote sensing and existing GIS datasets.
 
-\cventry
-{Jun -- Nov 2020}
-{WebGIS Expert}
-{\textsc{PT. Sucofindo}}
-{}
-{Client : The Indonesia Investment Coordinating Board / BKPM}
-{Supporting the team to develop and implement WebGIS for promoting the investment in Indonesia).
-\newline{}\newline{}
-Main tasks delivered in the project were: (1) designing and developing the software architecture, (2) supervising the implementation of the WebGIS in BKPM for promoting the investment}
+* Jun -- Nov 2020
 
+**WebGIS Expert**
 
-\cventry
-{Sep -- Des 2019}
-{Remote Sensing Expert }
-{\textsc{PT. Agrisoft Citra Buana}}
-{}
-{Client : Indonesia Climate Change Trust Fund - Bappenas}
-{Supporting the team to map and analyse peatland distribution in Indonesia using active and passive remote sensing data.
-\newline{}\newline{}
-Main tasks delivered in the project was analying remote sensing data (active and passive) to model the distribution of peatlands in Indonesia. The methods implemented to achieve the task were desktop-based processing using GRASS GIS and QGIS, cloud processing (Google Earth Engine, Machine Learning) dan geostatistic modeling using R.}
+**Client** : The Indonesia Investment Coordinating Board / BKPM
 
+Main tasks delivered in the project were: (1) designing and developing the software architecture, (2) supervising the implementation of the WebGIS in BKPM for promoting the investment.
 
-\cventry
-{Mar -- June 2019}
-{Geospatial System Specialist}
-{\textsc{Asian Institute of Technology}}
-{}
-{Client : The World Bank}
-{Supporting the Asian Institute of Technology Project Team for implementing Integrated Disaster Decision Support System for Uttarakhand State, India.
-\newline{}\newline{}
-The main task is to implement a High Availability WebGIS Server based on \\PostgreSQL, GeoServer and Apache Tomcat server.}
+* Sep -- Des 2019
+**Remote Sensing Expert**
 
+**Client** : Indonesia Climate Change Trust Fund - Bappenas
 
+Main tasks delivered in the project was analying remote sensing data (active and passive) to model the distribution of peatlands in Indonesia. The methods implemented to achieve the task were desktop-based processing using GRASS GIS and QGIS, cloud processing (Google Earth Engine, Machine Learning) dan geostatistic modeling using R.
 
+* Mar -- June 2019
 
-\cventry
-{Jul 2016-- Dec 2018}
-{Remote Sensing Specialist}
-{\textsc{Sentinel Asia}}
-{}
-{Client : JAXA}
-{Supporting the International Charter on Disasters as Project Manager (PM) and communication, generation and dissemination of Value Added Products (VAPs) for Sentinel Asia.
-\newline{}\newline{}
+**Geospatial System Specialist**
+
+**Client** : The World Bank
+
+The main task is to implement a High Availability WebGIS Server based on PostgreSQL, GeoServer and Apache Tomcat server.
+
+* Jul 2016-- Dec 2018
+
+**Remote Sensing Specialist**
+
+**Client** : Japan Aerospace and Exploration Agency (JAXA)
+
 Activities performed were managing more than 20 Sentinel Asia / IDC activation with main activities such as communication with Data Provider and the End Users; download and upload remote sensing data; generating and dissemination of VAP}
 
   
