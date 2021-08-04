@@ -29,7 +29,7 @@ Work experience
 
 **Spatial Dynamics Expert**
 
-**Client** : Ministry of National Development Planning of the Republic of Indonesia}
+**Client** : Ministry of National Development Planning of the Republic of Indonesia
 
 Main tasks delivered in the project were: (1) extracting land cover information from remote sensing datasets using Google Earth Engine, (2) modeling the spatial dynamics of land use land cover (LULC) and making LULC prediction for the year of 2035 and 2045, based on  extracted LULC from remote sensing and existing GIS datasets.
 
@@ -63,7 +63,7 @@ The main task is to implement a High Availability WebGIS Server based on Postgre
 
 **Client** : Japan Aerospace and Exploration Agency (JAXA)
 
-Activities performed were managing more than 20 Sentinel Asia / IDC activation with main activities such as communication with Data Provider and the End Users; download and upload remote sensing data; generating and dissemination of VAP}
+Activities performed were managing more than 20 Sentinel Asia / IDC activation with main activities such as communication with Data Provider and the End Users; download and upload remote sensing data; generating and dissemination of VAP.
 
   
 
