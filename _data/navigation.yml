@@ -9,13 +9,13 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "About me"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: https://github.com/firmanhadi/firmanhadi.github.io/blob/master/files/00_firmanhadi_cv_aug_21.pdf
     
   #- title: "Guide"
