@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2011 - Ph.D. in Remote Sensing and Landscape Ecology, Institut Teknologi Bandung, Indonesia
+* 2011 – Ph.D. in Remote Sensing and Landscape Ecology, Institut Teknologi Bandung, Indonesia
 * 2004 – M. Eng. in Remote Sensing, Institut Teknologi Bandung, Indonesia
 * 2001 – B. Sc. in Ecology and Conservation, Universitas Padjadjaran, Indonesia
 
@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Jun -- Nov 2020
+>**Jun -- Nov 2020**
 
 **Spatial Dynamics Expert**
 
@@ -32,7 +32,7 @@ Work experience
 
 Main tasks delivered in the project were: (1) extracting land cover information from remote sensing datasets using Google Earth Engine, (2) modeling the spatial dynamics of land use land cover (LULC) and making LULC prediction for the year of 2035 and 2045, based on  extracted LULC from remote sensing and existing GIS datasets.
 
-* Jun -- Nov 2020
+>**Jun -- Nov 2020**
 
 **WebGIS Expert**
 
@@ -40,14 +40,14 @@ Main tasks delivered in the project were: (1) extracting land cover information 
 
 Main tasks delivered in the project were: (1) designing and developing the software architecture, (2) supervising the implementation of the WebGIS in BKPM for promoting the investment.
 
-* Sep -- Des 2019
+>**Sep -- Des 2019**
 **Remote Sensing Expert**
 
 **Client** : Indonesia Climate Change Trust Fund - Bappenas
 
 Main tasks delivered in the project was analying remote sensing data (active and passive) to model the distribution of peatlands in Indonesia. The methods implemented to achieve the task were desktop-based processing using GRASS GIS and QGIS, cloud processing (Google Earth Engine, Machine Learning) dan geostatistic modeling using R.
 
-* Mar -- June 2019
+>**Mar -- June 2019**
 
 **Geospatial System Specialist**
 
@@ -55,7 +55,7 @@ Main tasks delivered in the project was analying remote sensing data (active and
 
 The main task is to implement a High Availability WebGIS Server based on PostgreSQL, GeoServer and Apache Tomcat server.
 
-* Jul 2016-- Dec 2018
+>**Jul 2016-- Dec 2018**
 
 **Remote Sensing Specialist**
 
