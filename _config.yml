@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bersama Mengubah Dunia"
 title_separator          : "-"
 name                     : &name "Firman Hadi"
-description              : &description "personal description"
+description              : &description "I am a man with many interests but no mastery in any of them."
 url                      : https://firmanhadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "firmanhadi/firmanhadi.github.io"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Firman Hadi"
-  avatar           : "profile.png"
+  avatar           : "IMG_0086.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Semarang"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kUxEuS8AAAAJ&hl=en"
   email            : "firmanhadi@me.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jalmiburung/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jalmiburung/"
+  orcid            : "https://orcid.org/0000-0003-2982-2430"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
