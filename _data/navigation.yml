@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Resume"
-    url: https://github.com/firmanhadi/firmanhadi.github.io/blob/master/files/00_firmanhadi_cv_aug_21.pdf
+  - title: "CV in PDF"
+    url: https://github.com/firmanhadi/firmanhadi.github.io/files/00_firmanhadi_cv_aug_21.pdf
     
   #- title: "Guide"
    # url: /markdown/
