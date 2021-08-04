@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=kUxEuS8AAAAJ&hl=en"
   email            : "firmanhadi@me.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "www.sigro.org"
+  uri              : #"www.sigro.org"
   bitbucket        :
   codepen          :
   dribbble         :
