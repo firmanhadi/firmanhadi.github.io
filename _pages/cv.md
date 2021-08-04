@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
 
 Education
 ======
@@ -41,6 +42,7 @@ Main tasks delivered in the project were: (1) extracting land cover information 
 Main tasks delivered in the project were: (1) designing and developing the software architecture, (2) supervising the implementation of the WebGIS in BKPM for promoting the investment.
 
 >**Sep -- Des 2019**
+
 **Remote Sensing Expert**
 
 **Client** : Indonesia Climate Change Trust Fund - Bappenas
