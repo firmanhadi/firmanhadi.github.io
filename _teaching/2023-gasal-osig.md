@@ -1,7 +1,7 @@
 ---
 title: "2023 - Otomasi SIG"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2023-gasal-osig
 venue: "Universitas Diponegoro, Departemen Teknik Geodesi"
 date: 2023-08-21
