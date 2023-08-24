@@ -12,7 +12,7 @@ redirect_from:
 
 Vectors
 ======
-* [Microsoft Building Footprints] in geopackage (https://www.dropbox.com/sh/m9wi8v1hc0b191o/AACi4klyDgV_syMI6BXdyDjAa?dl=0)
+* [Microsoft Building Footprints](https://www.dropbox.com/sh/m9wi8v1hc0b191o/AACi4klyDgV_syMI6BXdyDjAa?dl=0) of Indonesia in a geopackage file.
 
  
 
